@@ -1,0 +1,20 @@
+# - cover: 封面图片链接
+#   timeline: '2020-10-01' # 日期，需要用''包裹
+#   link: 置顶文章链接，站内文章建议填相对链接
+#   title: 置顶文章标题
+#   description: 置顶文章描述
+#   button: 手机端按钮内容
+# 示例如下
+  # button: 🍡详情
+- cover: https://img-blog.csdnimg.cn/img_convert/b3e41af83094bdfab8b81e2f7c812df0.png
+  timeline: '2021-02-10'
+  link: https://whitejiang.gitee.io/posts/3443/
+  title: MySQL 中，21 个写 SQL 的好习惯
+  description: 每一个好习惯都是一笔财富，本文分 SQL 后悔药、SQL 性能优化、SQL 规范优雅三个方向，分享写 SQL 的 21 个好习惯。
+  # button: 🍡详情
+- cover: https://img-blog.csdnimg.cn/img_convert/d53ade02b0dea3aae34253fcef0331fa.png
+  timeline: '2021-02-10'
+  link: https://whitejiang.gitee.io/posts/3553/
+  title: 用 Java 实现天天酷跑（附源码），这个真的有点强了！
+  description: 闯关类游戏，玩家登录后，选择进入游戏，通过键盘控制玩家的上下左右移动，来躲避 障碍物和吃金币。
+  # button: 🍡详情

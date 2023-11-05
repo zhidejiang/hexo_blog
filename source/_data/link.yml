@@ -1,0 +1,24 @@
+class:
+  class_name: 给dalao们递花✿✿ヽ(°▽°)ノ✿ 
+  cdescr:  #给dalao递零食✿✿ヽ(°▽°)ノ✿
+  link_list:
+    1:
+      name: 文宝
+      link: https://www.zhihu.com/people/89-50-39-85-94
+      avatar: https://whitejiang.gitee.io/img/t.png
+      descr: 业精于勤，行成于思。
+      color: "#0078e7"
+      custom: link_custom1 #动画样式
+      time: 2s
+      # 鼠标悬停旋转角度
+      rotate: 360deg
+    2:  
+      name: 尼古丁の客栈
+      link: https://whitejiang.gitee.io/link/
+      avatar: https://whitejiang.gitee.io/img/t.png
+      descr: 业精于勤，行成于思。
+      color: "#ff9999"
+      custom: link_custom #动画样式
+      time: 2s
+      # 鼠标悬停旋转角度
+      rotate: 360deg

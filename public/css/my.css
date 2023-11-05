@@ -1,0 +1,127 @@
+
+/* 彩带 */
+.card-info-avatar:hover {
+    background: url(https://cdn.jsdelivr.net/gh/rigodlee/BLOGCDN/img/H3342af90d24b4d62b9bbfec9688ccc25M.gif);
+}
+  
+  /* 花 */
+  /* .card-info-avatar:hover {
+    background: url(https://cdn.jsdelivr.net/gh/rigodlee/BLOGCDN/img/20200530181856.gif);
+  } */
+
+/* @font-face {
+    font-family:'arzhu';
+    src:url('https://cdn.jsdelivr.net/gh/zjwo/CDN@master/font/arzhu.ttf');
+    font-display:'swap';
+} */
+/* h1#site-title {
+    font-family:arzhu!important
+}
+span#subtitle {
+    font-family:arzhu!important
+}
+a#site-name {
+    font-family:arzhu!important
+} */
+
+/* 自定义字体 */
+/* @font-face {
+    font-family: 'sleek';
+    src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2');
+} */
+
+/* 评论框  */
+
+.vwrap {
+    box-shadow: 2px 2px 5px #bbb;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    padding: 30px;
+    margin: 30px 0px 30px 0px;
+}
+
+
+/* 提交按钮 */
+
+#vcomment button {
+    padding: 0.3rem 0.8rem;
+    border-color: #fff;
+    background-color: #e58a8a;
+    color: #fff;
+    font-size: 0.7rem;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+
+/* 评论区代码块 */
+
+.v[data-class=v] code {
+    color: #c7254e;
+    background-color: #F9F2F4;
+}
+/* 评论区表情 */
+.v[data-class=v] .emoji, .v[data-class=v] .vemoji{
+    max-width: 70px !important;
+}
+.v[data-class=v] .vwrap .vemojis i {
+    width: 70px !important;
+}
+/* 设置评论框 */
+
+.vcard {
+    box-shadow: 2px 2px 5px #bbb;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    padding: 30px;
+    margin: 30px 0px 0px 0px;
+}
+
+
+/* 取消回复聊天框 */
+
+.vquote .vcard {
+    box-shadow: 2px 2px 5px transparent;
+    background: rgba(255, 255, 255, 0.0);
+    padding: 0px;
+}
+
+
+/* 首页中间打字效果上方 */
+/* #page-header #site_title {
+    color: #80bdab;
+} */
+/* 顶部导航栏 */
+/* #nav a {
+    color: #f9f2f4;
+} */
+
+
+/* 首页轮播图滚动条颜色 */
+.blog-slider__pagination .swiper-pagination-bullet-active {
+    background:rgb(5, 89, 145) !important;
+}
+.blog-slider__pagination .swiper-pagination-bullet {
+    background:rgb(5, 89, 145) !important;
+}
+/* 分类页字体大小修改 */
+/* .article-sort-item__title {
+    font-size: 20px !important;
+} */
+/* 作者卡片字体大小修改 */
+/* #aside_content .card-info .card-info-data > .card-info-data-item a .headline {
+    font-size: 20px !important;
+} */
+/* 公告字体大小修改 */
+/* #aside_content .item-headline {
+    font-size: 20px !important;
+}
+#aside_content .card-recent-post .aside-recent-item > .aside-recent-post > a .aside-post-title .aside-post_meta {
+    font-size: 20px !important;
+}
+.article-sort-item__time {
+    font-size: 20px !important;
+} */
